@@ -239,9 +239,9 @@ Future versions could integrate real GC-MS or PTR-MS data, public VOC databases,
 
 ---
 
-## Future development roadmap
+## Development roadmap
 
-Potential next modules include:
+Additional modules included:
 
 1. **GC-MS Raw Signal Viewer**  
    Interactive chromatogram and mass-spectrum visualisation.
