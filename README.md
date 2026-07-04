@@ -3,7 +3,7 @@
 **A Molecular-to-Systems AI Platform for Digital Olfaction**
 
 OlfactoSense Studio is an interactive Streamlit application for demonstrating how artificial olfaction can be framed as a full molecular-to-systems AI problem. It connects volatile organic compounds, mixture chemistry, sensor-array responses, environmental confounders, biological meaning, machine-learning prediction, uncertainty, robot plume mapping, and cross-domain use cases in health, food, and the environment.
-
+<img width="1536" height="1024" alt="OlfactoSense" src="https://github.com/user-attachments/assets/e71c8150-6b07-411a-b5a5-eee0f7867fae" />
 The central idea is:
 
 > A smell is a dynamic, context-dependent chemical signal. To make it useful for AI, we need to capture the molecule, the mixture, the sensor response, the environment, the biological meaning, and the decision.
